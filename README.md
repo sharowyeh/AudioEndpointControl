@@ -1,4 +1,4 @@
-Simple console app uses Windoes core audio API for Win32 application, which will re-targeting Windows 11 build 22H2
+Simple console app uses Windoes core audio API for Win32 application, which will re-target Windows 11 build 22H2
 
 references:
 - [CoreAudio - EndpointVolumeControl](https://docs.microsoft.com/en-us/windows/win32/coreaudio/endpoint-volume-controls)
